@@ -1,4 +1,4 @@
-# Machine-Server
+
 # ⚙️ IoT-Based Machine Health Monitoring System Using ESP32 & MATLAB
 
 This project focuses on real-time monitoring and analysis of machine health using multiple sensors, ESP32 microcontrollers, Firebase cloud, and MATLAB-based fault analysis.
